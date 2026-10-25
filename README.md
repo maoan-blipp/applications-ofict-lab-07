@@ -1,4 +1,4 @@
-# Storage Estimator - Feature Version
+# Storage Estimator - Main Branch Title
 
 ## Purpose
 A Python program that estimates the total storage needed for a number of files.
